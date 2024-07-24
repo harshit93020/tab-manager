@@ -11,7 +11,7 @@ After all of the tabs are successfully shown, popup.js will allow user to contro
 
 Installation to local environment
 Find a folder where you want to download this project, open Terminal, and run the command for cloning:
-git clone https://github.com/phoenix850508/tab-manager-extension.git
+git clone https://github.com/harshit93020/tab-manager/tree/main
 On the Google Chrome browser, navigate to chrome://extensions/ and enable "Developer mode" in the upper right corner.
 Click on the Load unpacked extension... button.
 Select the tab-manager-extension folder
